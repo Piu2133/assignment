@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(180deg, #dbeafe, #f8fafc);
+  color: #1e293b;
+}
+
+button,
+input {
+  font: inherit;
+}
